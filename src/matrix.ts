@@ -133,10 +133,10 @@ export const updateMatrix = (
     const allCoords = [mouseCoords, ...adjacentCellCoords];
 
     allCoords.forEach((item) => {
-      if (newMatrix[item.y] === undefined) {
-        console.log({ mouseCoords });
-        console.log({ allCoords });
-      }
+      // if (newMatrix[item.y] === undefined) {
+      //   console.log({ mouseCoords });
+      //   console.log({ allCoords });
+      // }
       newMatrix[item.y][item.x] = 1;
     });
   }
