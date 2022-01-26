@@ -15,3 +15,17 @@ Features and functionality:
 - Randomize - create a random distribution of living and dead grid cells
 - Undo - made a mistake? Hit the undo button!
 - Clear - wipe the grid clean and start again
+
+## Running the project
+
+First, install dependencies by running:
+
+```bash
+yarn install
+```
+
+And to run:
+
+```bash
+yarn start
+```
