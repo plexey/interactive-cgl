@@ -1,7 +1,12 @@
 {
-  "name": "vite-template-solid",
+  "name": "interactive-cgl",
+  "author": {
+    "name": "Tom Trinca",
+    "email": "tptrinca@gmail.com",
+    "url": "https://github.com/plexey"
+  },
   "version": "0.0.0",
-  "description": "",
+  "description": "An interactive implementation of Conway's Game of Life",
   "scripts": {
     "start": "vite",
     "dev": "vite",
