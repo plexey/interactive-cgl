@@ -4,7 +4,7 @@
 
 This project is an interactive implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). 
 
-Features and functionality:
+## Features and functionality:
 
 - Pattern place - select from a set of included patterns, including still lifes, oscillators and spaceships. Place patterns into the grid mid-simulation.
 ![Pattern place example](https://thumbs.gfycat.com/InfatuatedWearyFoal-size_restricted.gif)
